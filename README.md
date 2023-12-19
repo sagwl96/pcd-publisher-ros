@@ -6,8 +6,10 @@ A python script to publish all the pcd files as pointcloud to a ros topic
 
 ### Usage
 
-The program takes two arguments
+The program takes two arguments:
+
 --directory -> paste the directory path to where your pcd files are stored
+
 --rate -> the rate at which to publish the pointclouds
 
 # Example:
